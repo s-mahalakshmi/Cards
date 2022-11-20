@@ -1,0 +1,39 @@
+body{
+    background-color: whitesmoke;
+    font-family:serif;
+}
+button{
+    height: 40px;
+    width: 120px;
+    /* border: 1px solid black;
+    text-decoration: none; */
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 3px;
+    
+}
+#one{
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+ 
+   text-align: center;
+}
+#two
+{
+    display: flex;
+    /* height:500px; */
+    justify-content: center;
+    align-items: center;
+    
+}
+p{
+    font-size:large ;
+    text-align: left;
+    line-height: 25px;
+}
+h1{
+    font-size: larger;
+    text-align: left;
+}
